@@ -1,4 +1,4 @@
-# ElasticSearch - GraphQL Shows CRUD 
+# ElasticSearch - GraphQL Television-Shows CRUD 
 
 
 
