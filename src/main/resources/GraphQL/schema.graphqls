@@ -1,0 +1,22 @@
+type Show{
+    id:ID!
+    showName:String
+    showGenre:String
+    showYear:Int
+    showRating:Int
+}
+
+type Query{
+    showAll:[Show]
+    show(showName:String):Show
+}
+type Mutation{
+    addShow(showRequest:ShowRequest):Show
+}
+input ShowRequest{
+    id:ID!
+    showName:String
+    showGenre:String
+    showYear:Int
+    showRating:Int
+}
