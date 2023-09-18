@@ -1,4 +1,4 @@
-# ElasticSearch - ElasticSearch - GraphQL Shows CRUD 
+# ElasticSearch - GraphQL Shows CRUD 
 
 
 
